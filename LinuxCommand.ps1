@@ -1,0 +1,1 @@
+function touch($filename) { New-Item -type file $filename }
